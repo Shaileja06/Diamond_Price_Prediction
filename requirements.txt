@@ -1,0 +1,4 @@
+flask 
+seaborn
+pandas
+numpy
